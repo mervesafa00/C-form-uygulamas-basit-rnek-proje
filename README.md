@@ -11,9 +11,9 @@ Buton2 üzerindeki yazı : sil
 
 Buton3 üzerindeki yazı : kapat
 
-Textbox arka plan rengi siyah
+Textbox arka plan rengi pembe
 
-Textbox üzerindeki yazının rengi pembe
+Textbox üzerindeki yazının rengi siyah
 
 Buton1’e basıldığında textbox üzerinde istediğimiz mesajı yazacaz
 
